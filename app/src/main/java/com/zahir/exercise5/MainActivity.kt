@@ -56,8 +56,5 @@ class MainActivity : AppCompatActivity() {
             commit()
         }
         super.onPause()
-
-        //79 03 91 8-10
-        //24 46 98 10-12
     }
 }
